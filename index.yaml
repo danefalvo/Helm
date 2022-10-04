@@ -7,7 +7,7 @@ entries:
     digest: ce0e28f5b3ec9720273214ba40aea854c2b4404dcde0fb6698c3032eaf7f04ec
     name: examplechart
     urls:
-    - https://packages.test.octopushq.com/artifactory/od-helm-repo/examplechart-0.1.0.tgz
+    - https://github.com/danefalvo/helm/examplechart-0.1.0.tgz
     type: application
     appVersion: "1.16.0"
     version: "0.1.0"
